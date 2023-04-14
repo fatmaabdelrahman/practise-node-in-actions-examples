@@ -1,2 +1,2 @@
-# node-in-actions-example-ch3
-# node-in-actions-example-ch3
+# ch3 => have simple crud example using sqlite 
+
